@@ -1,0 +1,47 @@
+body {
+  background-image: url(bg-img.jpg);
+  background-size: cover;
+  background-position: center center;
+}
+
+h2 {
+  color: #AA3939;
+  text-align: center;
+  border: 1px solid rgba(255, 170, 170, 0.5);
+  cursor: pointer;
+}
+
+p {
+  color: pink;
+}
+
+p {
+  color: green;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+}
+
+img {
+  float: left;
+}
+
+footer {
+  color: white;
+  clear: both;
+  text-align: end;
+}
+
+#p1 {
+  color: red;
+}
+
+#lorem {
+  border: 2px solid salmon;
+}
+
+.webtext {
+  background: rgba(255, 228, 196, 0.5);
+}

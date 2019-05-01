@@ -1,0 +1,31 @@
+/* body {
+  background-image: url(bg-img.jpg);
+  background-size: cover;
+  background-position: center center;
+} */
+
+h2 {
+  color: blue;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+}
+
+.boxmodel {
+  border: 5px solid red;
+  display: inline-block;
+  width: 55px;
+  height: 33px;
+  padding: 5px 20px;
+  margin: 0 20px;
+}
+
+p {
+  font-size: 20px;
+}
+
+span {
+  font-size: 5em; /* => 100px (i.e. 20px(from p) x 5)
+}
