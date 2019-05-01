@@ -27,5 +27,5 @@ p {
 }
 
 span {
-  font-size: 5em; /* => 100px (i.e. 20px(from p) x 5)
+  font-size: 5em; /* => 100px (i.e. 20px(from p) x 5) */
 }
